@@ -1,3 +1,7 @@
+//Brute Force solution 
+
+
+
 //Optimal Solution 
 
 import java.util.HashMap; 
