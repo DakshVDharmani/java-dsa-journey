@@ -90,14 +90,15 @@ This repository serves as:
 
 ## Progress Tracker
 
-Solved Problems: 0
+Solved Problems: 4
 
-* Arrays ⏳
+* Arrays 1
 * Strings ⏳
 * Linked Lists ⏳
 * Trees ⏳
 * Graphs ⏳
 * Dynamic Programming ⏳
+* Hashing 3
 
 ---
 
