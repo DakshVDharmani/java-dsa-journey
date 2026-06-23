@@ -1,4 +1,4 @@
-//Brute force solution 
+//Optimal Solution
 
 import java.util.HashMap;
 import java.util.Scanner;
