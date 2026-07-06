@@ -75,4 +75,4 @@ public class Employeeimportance {
 }
 
 //Space complexity = O(h) <- Depth only, saves space over HashMap solution. 
-//Time complexity = O(n^2) <-as we need to run through recursive. 
+//Time complexity = O(n^2) <-as we need to run through recursive, HashMap solution this optimal for time. 
