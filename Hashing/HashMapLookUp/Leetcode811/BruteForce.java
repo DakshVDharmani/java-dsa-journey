@@ -23,8 +23,15 @@ class Solution {
                     curr = subdomain[j] + "." + curr; 
 
                 mp.put(curr, mp.getOrDefault(curr, 0)+num); 
+                //HashMap lookup operation's average case utilizes O(1) time. 
             }
         }
+
+        /*
+        HashMap get operation can utilize O(N) time. 
+        But that rarely happens in Java 8. It uses balanced trees for heavily colliding buckets. 
+        This hash collisions still keep the average case. 
+        */
 
         List<String> ans = new ArrayList<>(); 
 
