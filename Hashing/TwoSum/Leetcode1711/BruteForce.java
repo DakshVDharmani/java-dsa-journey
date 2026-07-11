@@ -1,4 +1,4 @@
-//Brute Force
+//Brute Force Solution
 
 import java.util.HashMap;
 import java.util.Scanner;
