@@ -1,4 +1,4 @@
-//Brute Force solution 
+//Brute Force solution <-using HashSet instead of HashMap. 
 
 class Solution {
     public int maximumUniqueSubarray(int[] nums) {
