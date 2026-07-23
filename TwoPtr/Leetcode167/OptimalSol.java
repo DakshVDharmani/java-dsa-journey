@@ -1,4 +1,4 @@
-//Optimal Solution using Two Pointers
+//Optimal Solution 
 
 import java.util.Scanner;
 
