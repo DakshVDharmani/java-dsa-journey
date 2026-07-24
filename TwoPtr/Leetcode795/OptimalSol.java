@@ -3,7 +3,7 @@
 class Solution {
     public int numSubarrayBoundedMax(int[] nums, int left, int right) {
 
-        int lastValid = -1;     // <- Last index where left <= nums[i] <= right
+        int lastValid = -1;     // <- Last index where left <= nums[i] <= right 
         int lastInvalid = -1;   // <- Last index where nums[i] > right
 
         int ans = 0;
