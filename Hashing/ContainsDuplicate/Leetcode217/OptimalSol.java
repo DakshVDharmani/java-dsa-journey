@@ -1,4 +1,4 @@
-//Optimal Solution 
+//Optimal Solution
 
 import java.util.ArrayList;
 import java.util.HashSet;
