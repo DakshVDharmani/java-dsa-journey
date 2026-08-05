@@ -1,4 +1,4 @@
-package DP-Recursion.Fibonacci.Leetcode3708;
+//Optimal Solution 
 
 import java.util.Scanner; 
 
@@ -36,3 +36,6 @@ public class OptimalSol {
         System.out.println("The longest fibonacci subarray is of " + maxCount + " size"); 
     }
 }
+
+//Time complexity = O(n)
+//Space complexity = O(1)
