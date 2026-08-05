@@ -1,3 +1,5 @@
+//Brute Force Solution 
+
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -21,3 +23,6 @@ public class Fibonacci {
          
     }
 }
+
+//Time complexity = O(2^n) <-creates multiple binary recursions 
+//Space complexity = O(n)
