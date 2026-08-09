@@ -1,3 +1,5 @@
+//Optimal Solution 
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -12,3 +14,6 @@ class Solution {
         node.next = node.next.next; //skip the next node 
     }
 }
+
+//Time complexity = O(1)
+//Space complexity = O(1)
