@@ -1,3 +1,4 @@
+package LinkedList.SlowFastPtr.Leetcode2095;
 //Brute Force solution 
 
 /**
