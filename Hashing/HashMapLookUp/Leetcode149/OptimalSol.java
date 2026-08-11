@@ -1,4 +1,4 @@
-//Brute Force solution 
+//Optimal solution 
 
 class Solution {
     public int maxPoints(int[][] points) {
