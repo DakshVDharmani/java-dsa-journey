@@ -92,13 +92,14 @@ This repository serves as:
 
 Solved Problems: 4
 
-* Arrays 1
+* Arrays 12
 * Strings ⏳
-* Linked Lists ⏳
+* Linked Lists 15
 * Trees ⏳
 * Graphs ⏳
-* Dynamic Programming ⏳
-* Hashing 3
+* Dynamic Programming 2
+* Hashing 21
+* Two Ptr 18
 
 ---
 
