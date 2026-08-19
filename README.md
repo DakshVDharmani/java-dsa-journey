@@ -94,7 +94,7 @@ Solved Problems: 4
 
 * Arrays 12
 * Strings ⏳
-* Linked Lists 16
+* Linked Lists 17
 * Trees ⏳
 * Graphs ⏳
 * Dynamic Programming 2
