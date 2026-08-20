@@ -94,10 +94,10 @@ Solved Problems: 4
 
 * Arrays 12
 * Strings ⏳
-* Linked Lists 19
+* Linked Lists 20
 * Trees ⏳
 * Graphs ⏳
-* Dynamic Programming 2
+* Dynamic Programming 3
 * Hashing 21
 * Two Ptr 19
 
