@@ -1,6 +1,6 @@
-package DynamicProgramming.Basics.LeastEleSum;
+package DynamicProgramming.Basics.Leetcode322;
 
-public class OptimalSol {
+public class BruteForce {
     static public void main(String[] args){
         int[] arr = {7, 5, 1}; 
         int target = 18; 
@@ -25,3 +25,6 @@ public class OptimalSol {
         return ans; 
     }
 }
+
+//Time complexity = O(nⁿ) <-mutliple recursive branches evaluated repeatedly 
+//Space complexity = O(target) <-plus overhead due to recursive stack calls 
