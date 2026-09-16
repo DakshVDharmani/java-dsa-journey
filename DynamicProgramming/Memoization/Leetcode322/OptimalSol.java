@@ -1,4 +1,4 @@
-package DynamicProgramming.Basics.Leetcode322;
+package DynamicProgramming.Memoization.Leetcode322;
 
 import java.util.Arrays; 
 

@@ -25,3 +25,6 @@ public class BruteForce {
         return ans; 
     }
 }
+
+//Time complexity = exponential, roughly O(n^A) in the worst case, where A = amount and n = number of coins
+//Space complexity = O(A) recursion stack in the worst case, when coin 1 exists

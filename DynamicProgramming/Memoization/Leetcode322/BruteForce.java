@@ -1,4 +1,4 @@
-package DynamicProgramming.Basics.Leetcode322;
+package DynamicProgramming.Memoization.Leetcode322;
 
 public class BruteForce {
     static public void main(String[] args){
